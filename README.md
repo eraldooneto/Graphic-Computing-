@@ -1,1 +1,1 @@
-# Graphic-Computing-
+# Graphic Computing
